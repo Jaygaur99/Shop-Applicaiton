@@ -1,0 +1,16 @@
+.product-details{
+    display: flex;
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    font-size: 1.3rem;
+}

@@ -1,0 +1,22 @@
+*{
+    font-family: 'STIX Two Text', serif;
+    padding: 5px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+#header{
+    text-align: center;
+}
+
+#header a{
+    text-decoration: None;
+    font-size: 2rem;
+    color: black;
+}
+
+#subheader{
+    background-color: rgb(243, 240, 240);
+    font-size: 1.5rem;
+    text-align:end;
+}
